@@ -1,22 +1,4 @@
-## Med-Assistant
-
-## Group Members
-
-| Name              | ID          | Section   |
-| ----------------- | ----------- | --------- |
-| Eden Asamere      | UGR/7759/13 | Section 2 |
-| Hiwot Beyene      | UGR/3774/13 | Section 2 |
-| Sitra Mohammed    | UGR/0106/13 | Section 1 |
-| Dagmawit Abeselom | UGR/9134/13 | Cyber     |
-| Liyat Tesfaye     | UGR/6140/12 | Cyber     |
-| Lidya Ejigu       | UGR/5038/13 | Cyber     |
-
-## Submission Details
-
-- Submitted to: Mr. Endrias
-- School: School of Information and Technology
-- Year: 4th Year
-- Program: Software Engineering
+## MEDi
 
 ## Project Information
 
